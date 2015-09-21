@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="iso-8859-1"?>  
+
+<listechiens> 
+			<chien>
+				<prenom> Medor </prenom>
+				<surnom> Doudou </surnom>
+				<race class="chien de chasse"> 	Pointer	</race>
+				<journaissance> 18 </journaissance>
+				<moisnaissance> Janvier </moisnaissance> 
+				<datenaissance> 2004 </datenaissance>
+			</chien> 
+			
+			<chien>  
+				<prenom> Pollux </prenom>
+				<race> bichon frisé </race> 
+				<datenaissance> 2005 </datenaissance>
+			
+			</chien>		 
+				
+			<chien>  
+				<prenom>Bonnie </prenom>
+				<race> sans race </race>
+				<classe> chien de garde </classe>
+				<moisnaissance> février </moisnaissance>
+				<datenaissance>  2000 </datenaissance>
+			</chien>	
+</listechiens>			
