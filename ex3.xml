@@ -24,6 +24,16 @@
 				<moisnaissance> février </moisnaissance>
 				<datenaissance>  2000 </datenaissance>
 			</chien>	
+			
+			<chien>  
+				<prenom>Bill </prenom>
+				<race> bonne race </race>
+				<classe> chien de garde </classe>
+				<moisnaissance> avril </moisnaissance>
+				<datenaissance>  2002 </datenaissance>
+			</chien>	
+			
+			
 </listechiens> 
 <patata> 
 </patata>			
